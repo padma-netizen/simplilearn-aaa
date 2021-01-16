@@ -1,1 +1,1 @@
-# simplilearn-aaa
+# AWS Solutions Architect Associate - Simplilearn
